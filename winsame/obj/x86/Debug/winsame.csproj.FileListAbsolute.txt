@@ -1,0 +1,14 @@
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\bin\Debug\winsame.exe
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\bin\Debug\winsame.pdb
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\MainWindow.baml
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\MainWindow.g.cs
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\App.g.cs
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\winsame_MarkupCompile.cache
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\winsame.g.resources
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\winsame.Properties.Resources.resources
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\winsame.exe
+c:\users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\winsame.pdb
+C:\Users\barty\documents\visual studio 2010\Projects\winsame\winsame\obj\x86\Debug\winsame.HelpWindow.resources
